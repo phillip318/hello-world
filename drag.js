@@ -4,4 +4,5 @@ function foo(id){
 	obj.onmousedown = function(){
 		
 	}
+	xxx
 }
